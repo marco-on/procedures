@@ -3,22 +3,7 @@
 Requiere de dos sistemas operativos (OS) uno denominado **_Guest_** (invitado) y el OS principal **_Host_**.
 
 
-.center[
-	![My image](images/host-guest.png)
-.caption[
-	**Fig. 1:** Image caption
-]
-]
-
-.caption {
-  text-align: center;
-  font-size: .8rem;
-}
-
-<p align="center">
-  <img width="460" src="images/host-guest.png">
-</p>
-
+.center[![My image](images/host-guest.png)]
 
 Las partes del ambiente de programación son:
 1.	Sistema operativo para almacenamiento de códigos de programa, conexión con GitHub y proceso de compilación.
@@ -29,10 +14,5 @@ Las partes del ambiente de programación son:
 
 
 <p align="center">
-  <img width="460" src="images/ambiente-prog-partes.png">
+  <img width="560" src="images/ambiente-prog-partes.png">
 </p>
-
-
-
-
-![ambiente de programación](images/ambiente-prog-partes.png)
