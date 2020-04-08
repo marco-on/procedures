@@ -2,6 +2,19 @@
 
 Requiere de dos sistemas operativos (OS) uno denominado **_Guest_** (invitado) y el OS principal **_Host_**.
 
+
+.center[
+	![My image](images/host-guest.png)
+.caption[
+	**Fig. 1:** Image caption
+]
+]
+
+.caption {
+  text-align: center;
+  font-size: .8rem;
+}
+
 <p align="center">
   <img width="460" src="images/host-guest.png">
 </p>
@@ -18,6 +31,8 @@ Las partes del ambiente de programación son:
 <p align="center">
   <img width="460" src="images/ambiente-prog-partes.png">
 </p>
+
+
 
 
 ![ambiente de programación](images/ambiente-prog-partes.png)
