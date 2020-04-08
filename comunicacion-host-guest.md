@@ -11,11 +11,11 @@ Para verificar esta dirección si el _host_ usa windows:
 - Acceder a símbolo de sistema o _cmd_ desde el menú de _inicio_.
 
 <p align="center">
-  <img width="460" src="images/ipaddress_check_win1.png">
+  <img width="300" src="images/ipaddress_check_win1.png">
 </p>
 
 - Ejecutar el comando _ipconfig_ y buscar la ip del adaptador lógico de red de VirtualBox.
 
 <p align="center">
-  <img width="460" src="images/ipaddress_check_win2.png">
+  <img width="560" src="images/ipaddress_check_win2.png">
 </p>
