@@ -6,5 +6,5 @@ El ambiente de programación a utilizar está divido en 2 partes generales: uno 
 2. [Comunicación Host-Guest](./docs/comunicacion-host-guest.md)
 3. [Instalación de guest](./docs/install-guest.md)
 4. [Configuración de guest](./docs/config-guest.md)
-5. [Configuración de host](./docs/config-hosst.md)
+5. [Configuración de host](./docs/config-host.md)
 
