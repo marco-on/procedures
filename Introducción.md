@@ -13,8 +13,8 @@ Las partes del ambiente de programación son:
 5.	Plataforma para la gestión y el control de versiones.
 
 
-<div style="align: left; text-align:center;">
-    <img src="images/ambiente-prog-partes.png" height="31px" width="200px" />
+<div style="align: center; text-align:center;">
+    <img src="images/ambiente-prog-partes.png" width="200" />
     <div class="caption">Some caption text</div>
 </div>
 
