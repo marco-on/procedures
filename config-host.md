@@ -27,6 +27,10 @@ Luego de la instalación de NppFTP Notepadd++ se reinicia. Ir al _plugin para mo
 Configurar los parámentors del _guest_ en el plugin NppFTP de Notepad++. Los parámetros pueden variar. Ver [Configuración de guest](comunicacion-host-guest.md) y [Dirección de guest](config-guest.md))
 
 <p align="center">
+  <img width="460" src="images/notepadpp_plugin3.1.png">
+</p>
+
+<p align="center">
   <img width="460" src="images/notepadpp_plugin4.png">
 </p>
 
