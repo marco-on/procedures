@@ -3,7 +3,7 @@
 Requiere de dos sistemas operativos (OS) uno denominado **_Guest_** (invitado) y el OS principal **_Host_**.
 
 <p align="center">
-  <img width="560" src="images/host-guest.png">
+  <img width="560" src="../images/host-guest.png">
 </p>
 
 Las partes del ambiente de programación son:
@@ -15,5 +15,5 @@ Las partes del ambiente de programación son:
 
 
 <p align="center">
-  <img width="560" src="images/ambiente-prog-partes.png">
+  <img width="560" src="../images/ambiente-prog-partes.png">
 </p>
