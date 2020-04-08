@@ -1,13 +1,10 @@
-# procedures
-alse procedures
+# Herrmientas para programar
 
-procedimientos para entender y configurar el ambiente de programación a utilizar. Este requiere de dos sistemas operativos (OS) uno denominado Guest (invitado) y el OS principal Host como se muestra a continuación.
-![](images/host-guest.png)
+El ambiente de programación a utilizar está divido en 2 partes generales: uno llamado _Guest_ donde se encuentra el sistema operativo Ubuntu Server 18.04 con el compilador, librerías y git ; y el otro llamado _host_ desde donde se editan los códigos de los programas y se modifican características del sistema operativo mediante commandos. Estos se describen a continuación.
 
-Las partes del ambiente de programación son:
-1.	Sistema operativo para almacenamiento de códigos de programa, conexión con GitHub y proceso de compilación.
-2.	Editor de código de programa.
-3.	Administrador de archivos para mover y copiar archivos entre guest y host. Opcional.
-4.	Consola alternativa para ejecutar procesos de compilación, ejecución y almacenamiendo.
-5.	Plataforma para la gestión y el control de versiones.
-![](images/ambiente-prog-partes.png)
+1. [Intro](Introducción.md)
+2. [Comunicación Host-Guest] (comunicacion-host-guest.md)
+3. [Instalación de guest] (install-guest.md)
+4. [Configuración de guest] (config-guest.md)
+5. [Configuración de host] (config-hosst.md)
+
