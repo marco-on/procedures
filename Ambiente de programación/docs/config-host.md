@@ -5,7 +5,7 @@
 ###2. Notepad++ NppFTP plugin
 -Requisitio: instalación de [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-NppFTP es el _plugin_ que permite la comunicación entre el editor y el _guest_.
+[NppFTP](https://ashkulz.github.io/NppFTP/) es el _plugin_ que permite la comunicación entre el editor y el _guest_.
 
 En Notepad++ iniciar el administrador de _plugins_
 
