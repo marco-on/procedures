@@ -34,10 +34,10 @@
 	git push -u origin master
 
 
-	git pull origin --allow-unrelated-histories HEAD
-	git status
-	git add README.md
-	git add smallobj.cpp
-	git status
-	git commit -m "otra pruebaa" smallobj.cpp README.md
+	- git pull origin --allow-unrelated-histories HEAD
+	- git status
+	- git add README.md
+	- git add smallobj.cpp
+	- git status
+	- git commit -m "otra pruebaa" smallobj.cpp README.md
 
