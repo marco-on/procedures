@@ -30,3 +30,14 @@ Una vez finalizado el proceso de importación y luego de iniciar la máquina vir
 <p align="center">
   <img width="460" src="../images/install_guest5.png">
 </p>
+
+#after VirtualBox configuration
+
+##in Ubuntu install the following
+
+sudo apt-get install gcc
+sudo apt install g++
+sudo apt-get install make
+sudo apt-get install git
+sudo apt install gdb
+
