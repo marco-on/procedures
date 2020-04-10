@@ -29,7 +29,7 @@
 
 3. Other commands. Review pending
 
-…or push an existing repository from the command line
+	- …or push an existing repository from the command line
 	- git remote add origin https://github.com/user-name/repo_name.git
 	git push -u origin master
 
