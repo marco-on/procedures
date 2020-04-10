@@ -1,6 +1,6 @@
 # Configuración de **_Guest_**
 - Requisisto: instalación de _guest_
-##en VirtualBox
+## En VirtualBox
 
 ### Configuración de red.
 Para permitir la conectividad a internet desde el **_guest_** y al mismo tiempo permitir la comunicación con el **_host_**.

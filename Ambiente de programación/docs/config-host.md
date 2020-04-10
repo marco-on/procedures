@@ -1,8 +1,8 @@
 # Configuración de procesos en **_host_**
 
-##en Windows
+## En Windows
 
-###2. Notepad++ NppFTP plugin
+### 2. Notepad++ NppFTP plugin
 -Requisitio: instalación de [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 [NppFTP](https://ashkulz.github.io/NppFTP/) es el _plugin_ que permite la comunicación entre el editor y el _guest_.
@@ -41,7 +41,7 @@ Conectar Notepad++ al _guest_
 </p>
 
 
-###3. Administrador de archivos
+### 3. Administrador de archivos
 
 -Requisitio: instalación de [WinSCP](https://winscp.net/eng/download.php)
 
@@ -59,7 +59,7 @@ Asignar nombre y guardar contraseña
 </p>
 
 
-###4. Consola SSH
+### 4. Consola SSH
 
 - Requisito: descarga de [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
