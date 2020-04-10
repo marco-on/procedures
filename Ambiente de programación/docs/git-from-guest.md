@@ -28,16 +28,16 @@
 
 
 
-Other commands
+3. Other commands. Review pending
 …or push an existing repository from the command line
 git remote add origin https://github.com/user-name/repo_name.git
 git push -u origin master
 
 
-git pull origin --allow-unrelated-histories HEAD
-git status
-git add README.md
-git add smallobj.cpp
-git status
-git commit -m "otra pruebaa" smallobj.cpp README.md
+	git pull origin --allow-unrelated-histories HEAD
+	git status
+	git add README.md
+	git add smallobj.cpp
+	git status
+	git commit -m "otra pruebaa" smallobj.cpp README.md
 
