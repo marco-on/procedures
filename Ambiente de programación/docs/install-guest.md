@@ -31,8 +31,6 @@ Una vez finalizado el proceso de importación y luego de iniciar la máquina vir
   <img width="460" src="../images/install_guest5.png">
 </p>
 
-#after VirtualBox configuration
-
 ##in Ubuntu install the following
 
 sudo apt-get install gcc
