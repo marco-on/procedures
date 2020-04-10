@@ -31,11 +31,11 @@ Una vez finalizado el proceso de importación y luego de iniciar la máquina vir
   <img width="460" src="../images/install_guest5.png">
 </p>
 
-##in Ubuntu install the following
+## in Ubuntu install the following
 
-sudo apt-get install gcc
-sudo apt install g++
-sudo apt-get install make
-sudo apt-get install git
-sudo apt install gdb
+	sudo apt-get install gcc
+	sudo apt install g++
+	sudo apt-get install make
+	sudo apt-get install git
+	sudo apt install gdb
 
