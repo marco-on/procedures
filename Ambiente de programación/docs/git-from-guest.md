@@ -27,11 +27,11 @@
 	After editing hello-world.c repeat from h skipping k.
 
 
-
 3. Other commands. Review pending
+
 …or push an existing repository from the command line
-git remote add origin https://github.com/user-name/repo_name.git
-git push -u origin master
+	- git remote add origin https://github.com/user-name/repo_name.git
+	git push -u origin master
 
 
 	git pull origin --allow-unrelated-histories HEAD
