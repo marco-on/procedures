@@ -10,7 +10,7 @@ Teniendo en cuenta los dos sistemas operativos (OS), uno denominado **_Guest_** 
 ## Proceso de conexión SSH
 La comunicación entre el _host_ y el OS Ubuntu (_guest_) usando SSH, se hace a través del punto de conexión encerrado, usando la dirección IP _192.168.56.1_ como se muestra a continuación.
 <p align="center">
-  <img width="420" src="../images/conn_sshClient_guest.png">
+  <img width="460" src="../images/conn_sshClient_guest.png">
 </p>
 
 El Cliente SSH desde donde se establece la conexión se llama PuTTY y se puede descargar [aquí][l1] o [aquí][l2]. Este permite el acceso a la interfaz de comandos de línea (Command Line Interface - CLI) del OS ubuntu. Además, permite interacciones básicas entre _host_ y _guest_ como copiar y pegar, entre otras.
@@ -21,5 +21,5 @@ El Cliente SSH desde donde se establece la conexión se llama PuTTY y se puede d
 Ingrese los campos mostrados, guarde y luego abra la conexión.
 
 <p align="center">
-  <img width="420" src="../images/putty-config2.png">
+  <img width="460" src="../images/putty-config2.png">
 </p>
