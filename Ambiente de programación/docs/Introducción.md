@@ -17,3 +17,4 @@ Las partes del ambiente de programación son:
 <p align="center">
   <img width="560" src="../images/ambiente-prog-partes.png">
 </p>
+
